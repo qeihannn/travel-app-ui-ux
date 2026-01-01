@@ -1,4 +1,4 @@
-# 🧭 Travel App — Modern UI/UX  
+# 🧭 Travel App — Modern UI/UX   
 A clean and modern **Travel Application UI/UX** built using **Next.js**, **React**, and **Tailwind CSS**.  
 Project ini berfokus pada tampilan antarmuka yang simple, minimalis, dan responsif untuk pengalaman pengguna yang nyaman di mobile maupun desktop.
 
